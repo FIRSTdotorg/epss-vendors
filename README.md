@@ -5,7 +5,9 @@ A list of vendors who support EPSS in their products
 | ----------- | ----------- | ----------- | ----------- |
 | AWS |
 | Coalition |
+|IBM Security|
 | Manifest |
+| Mandiant | Mandiant Vulnerability Intelligence |https://www.mandiant.com/resources/blog/enhanced-vulnerability-intelligence||
 | Mend.io |
 | Nucleus Security | Nucleus Unified Vulnerability Management| |
 | Oligo | | |
