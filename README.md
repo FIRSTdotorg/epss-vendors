@@ -5,6 +5,7 @@ A list of vendors who support EPSS in their products
 | ----------- | ----------- | ----------- | ----------- |
 | Coalition |
 | Nucleus Security | Nucleus Unified Vulnerability Management| |
+| Oligo | | |
 | Qualys | TruRisk | Used as a variable in part of the TruRisk Score | |
 | Snyk | TruRisk | TBD | |
 | Vulners | | |
