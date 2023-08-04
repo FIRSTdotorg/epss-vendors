@@ -5,6 +5,7 @@ A list of vendors who support EPSS in their products
 | ----------- | ----------- | ----------- | ----------- |
 | Armis |https://www.armis.com/integrations/exploit-prediction-scoring-system-epss/|
 | AWS |
+| Cisco | Kenna Security|
 | Coalition |
 | Finitestate |
 |IBM Security|
