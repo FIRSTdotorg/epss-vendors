@@ -5,6 +5,7 @@ A list of vendors who support EPSS in their products
 | ----------- | ----------- | ----------- | ----------- |
 | AWS |
 | Coalition |
+| Finitestate |
 |IBM Security|
 | Manifest |
 | Mandiant | Mandiant Vulnerability Intelligence |https://www.mandiant.com/resources/blog/enhanced-vulnerability-intelligence||
