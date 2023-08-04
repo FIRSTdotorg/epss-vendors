@@ -3,6 +3,7 @@ A list of vendors who support EPSS in their products
 
 | Vendor | Product | Link | Notes |
 | ----------- | ----------- | ----------- | ----------- |
+| Armis |https://www.armis.com/integrations/exploit-prediction-scoring-system-epss/|
 | AWS |
 | Coalition |
 | Finitestate |
