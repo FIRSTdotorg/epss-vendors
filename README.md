@@ -17,7 +17,7 @@ A list of vendors who support EPSS in their products
 | Mend.io |
 | Nucleus Security | Nucleus Unified Vulnerability Management| |
 | Oligo | | |
-| OWASP Dependency Track | | |
+| OWASP Dependency Track | | https://owasp.org/www-project/dependency-track |
 |Phoenix Security|||https://phoenix.security/new-features-november-2022/|
 | Qualys | TruRisk | Used as a variable in part of the TruRisk Score | |
 | Secops Solution||https://www.secopsolution.com/|
