@@ -9,6 +9,7 @@ A list of vendors who support EPSS in their products
 | Cisco | Kenna Security|
 | Coalition |
 | ConnectSecure |
+| Endor Labs | | |
 | Finitestate |
 | IBM Security |
 | Manifest |
@@ -16,6 +17,7 @@ A list of vendors who support EPSS in their products
 | Mend.io |
 | Nucleus Security | Nucleus Unified Vulnerability Management| |
 | Oligo | | |
+| OWASP Dependency Track | | |
 |Phoenix Security|||https://phoenix.security/new-features-november-2022/|
 | Qualys | TruRisk | Used as a variable in part of the TruRisk Score | |
 | Secops Solution||https://www.secopsolution.com/|
