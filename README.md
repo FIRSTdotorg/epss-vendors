@@ -8,6 +8,7 @@ A list of vendors who support EPSS in their products
 | Bomber|||https://github.com/devops-kung-fu/bomber|
 | Cisco | Kenna Security|
 | Coalition |
+| ConnectSecure |
 | Finitestate |
 | IBM Security |
 | Manifest |
@@ -15,9 +16,12 @@ A list of vendors who support EPSS in their products
 | Mend.io |
 | Nucleus Security | Nucleus Unified Vulnerability Management| |
 | Oligo | | |
+|Phoenix Security|||https://phoenix.security/new-features-november-2022/|
 | Qualys | TruRisk | Used as a variable in part of the TruRisk Score | |
-|Secops Solution||https://www.secopsolution.com/|
-|SOOS|||Coming Coon|
+| Secops Solution||https://www.secopsolution.com/|
+| SOOS |||Coming Coon|
 | Snyk | | | |
+|VulDB||https://vuldb.com/?kb.epss||
+| Vulcan |
 | Vulners | | |
 | Wiz | | |
