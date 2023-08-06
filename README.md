@@ -21,6 +21,7 @@ A list of vendors who support EPSS in their products
 |Phoenix Security|||https://phoenix.security/new-features-november-2022/|
 | Qualys | TruRisk | Used as a variable in part of the TruRisk Score | |
 | Secops Solution||https://www.secopsolution.com/|
+| Security Scorecard | CVE Details | https://www.cvedetails.com/epss/epss-score-history.html |
 | SOOS |||Coming Coon|
 | Snyk | | | |
 |VulDB||https://vuldb.com/?kb.epss||
