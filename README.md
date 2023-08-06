@@ -1,5 +1,5 @@
 # EPSS-Vendors
-A list of vendors who support EPSS in their products
+A list of vendors with products who support EPSS in their products.
 
 | Vendor | Product | Link |
 | ----------- | ----------- | ----------- |
