@@ -9,6 +9,7 @@ A list of vendors who support EPSS in their products
 | Cisco | Kenna Security | https://www.helpnetsecurity.com/2019/11/04/kenna-security-exploit-prediction-scoring-system/ |
 | Coalition | Coalition Exploit Scoring System | https://ess.coalitioninc.com/ |
 | ConnectSecure | ConnectSecure Vulnerability Management | https://connectsecure.com/news/product-update-epss-empowers-msps-to-tackle-high-risk-vulnerabilities |
+| Cybeats |
 | Endor Labs | Endor Labs | https://www.endorlabs.com/blog/cve-vulnerability-epss-ssvc-reachability-vex |
 | Fortinet | Forinet DAST | https://docs.fortinet.com/document/fortidast/23.3.0/user-guide/476620/vulnerabilities |
 | Finitestate | Finite State Platform | https://finitestate.io/products/finite-state-platform/ |
