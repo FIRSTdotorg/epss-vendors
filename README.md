@@ -13,6 +13,7 @@ A list of vendors who support EPSS in their products
 | Fortinet | Forinet DAST | https://docs.fortinet.com/document/fortidast/23.3.0/user-guide/476620/vulnerabilities |
 | Finitestate | Finite State Platform | https://finitestate.io/products/finite-state-platform/ |
 | IBM Security | | |
+| Kodem | | |
 | Manifest | Manifest | https://www.manifestcyber.com/blog/introducing-manifest | SBOM Management |
 | Mandiant | Mandiant Vulnerability Intelligence | https://www.mandiant.com/resources/blog/enhanced-vulnerability-intelligence||
 | Mend.io | Mend | https://docs.mend.io/bundle/sca_user_guide/page/view_epss_scores_for_container_images.html |
