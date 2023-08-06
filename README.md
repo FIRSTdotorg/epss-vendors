@@ -21,13 +21,14 @@ A list of vendors who support EPSS in their products
 | Oligo | Oligo | |
 | OWASP | Dependency Track | https://owasp.org/www-project/dependency-track |
 | Phoenix Security | Act on Phoenix |https://phoenix.security/new-features-november-2022/|
-| Qualys | TruRisk | Used as a variable in part of the TruRisk Score | |
+| Qualys | TruRisk |  |
+| Rezilion | Rezilion | https://www.rezilion.com/blog/introducing-our-new-software-supply-chain-security-features/ |
 | Secops Solution| EPSS Calculator | https://www.secopsolution.com/epss-calculator |
 | SecurityScorecard | CVE Details | https://www.cvedetails.com/epss/epss-score-history.html |
 | SOOS |Coming Coon|
-|Strobes| VM365 | https://help.strobes.co/hc/en-us/articles/13158942134801-Vulnerabilities-Custom-CSV-Export |
+| Strobes | VM365 | https://help.strobes.co/hc/en-us/articles/13158942134801-Vulnerabilities-Custom-CSV-Export |
 | Snyk | Security Intelligence | https://snyk.io/blog/improved-risk-assessment-with-epss-scores-in-snyk/ |
-|VulDB| Cyber Threat Intelligence |https://vuldb.com/?kb.epss| |
+| VulDB | Cyber Threat Intelligence |https://vuldb.com/?kb.epss| |
 | Vulcan | Vulcan Cyber Risk Management Platform | https://vulcan.io/blog/thinking-of-using-epss-heres-what-you-need-to-know/|
 | Vulners | Vulners Database | https://vulners.com/search |
 | Wiz | Wiz Platform | https://www.wiz.io/ |
