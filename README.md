@@ -24,6 +24,7 @@ A list of vendors who support EPSS in their products
 | Secops Solution| EPSS Calculator | https://www.secopsolution.com/epss-calculator |
 | SecurityScorecard | CVE Details | https://www.cvedetails.com/epss/epss-score-history.html |
 | SOOS |Coming Coon|
+|Strobes| VM365 | https://help.strobes.co/hc/en-us/articles/13158942134801-Vulnerabilities-Custom-CSV-Export |
 | Snyk | Security Intelligence | https://snyk.io/blog/improved-risk-assessment-with-epss-scores-in-snyk/ |
 |VulDB| Cyber Threat Intelligence |https://vuldb.com/?kb.epss| |
 | Vulcan | Vulcan Cyber Risk Management Platform | https://vulcan.io/blog/thinking-of-using-epss-heres-what-you-need-to-know/|
