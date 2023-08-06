@@ -3,10 +3,10 @@ A list of vendors who support EPSS in their products
 
 | Vendor | Product | Link | Notes |
 | ----------- | ----------- | ----------- | ----------- |
-| Armis |||https://www.armis.com/integrations/exploit-prediction-scoring-system-epss/|
-| AWS | Inspector|
-| Bomber|||https://github.com/devops-kung-fu/bomber|
-| Cisco | Kenna Security|
+| Armis |Armis Asset Vulnerability Management module| https://www.armis.com/integrations/exploit-prediction-scoring-system-epss/ | |
+| AWS | Inspector| https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-inspector-vulnerability-intelligence-findings/ |
+| Bomber|Bomber|https://github.com/devops-kung-fu/bomber|
+| Cisco | Kenna Security | https://www.helpnetsecurity.com/2019/11/04/kenna-security-exploit-prediction-scoring-system/ |
 | Coalition |
 | ConnectSecure |
 | Endor Labs | | |
