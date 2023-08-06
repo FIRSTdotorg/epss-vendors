@@ -9,14 +9,14 @@ A list of vendors who support EPSS in their products
 | Cisco | Kenna Security | https://www.helpnetsecurity.com/2019/11/04/kenna-security-exploit-prediction-scoring-system/ |
 | Coalition | Coalition Exploit Scoring System | https://ess.coalitioninc.com/ |
 | ConnectSecure | ConnectSecure Vulnerability Management | https://connectsecure.com/news/product-update-epss-empowers-msps-to-tackle-high-risk-vulnerabilities |
-| Endor Labs | https://www.endorlabs.com/blog/cve-vulnerability-epss-ssvc-reachability-vex |
+| Endor Labs | Endor Labs | https://www.endorlabs.com/blog/cve-vulnerability-epss-ssvc-reachability-vex |
 | Finitestate | Finite State Platform | https://finitestate.io/products/finite-state-platform/ |
 | IBM Security | | |
 | Manifest | Manifest | https://www.manifestcyber.com/blog/introducing-manifest | SBOM Management |
 | Mandiant | Mandiant Vulnerability Intelligence | https://www.mandiant.com/resources/blog/enhanced-vulnerability-intelligence||
 | Mend.io | Mend | https://docs.mend.io/bundle/sca_user_guide/page/view_epss_scores_for_container_images.html |
 | Nucleus Security | Nucleus Unified Vulnerability Management| https://nucleussec.com/blog/what-is-epss/ |
-| Oligo |  | |
+| Oligo | Oligo | |
 | OWASP | Dependency Track | https://owasp.org/www-project/dependency-track |
 | Phoenix Security | Act on Phoenix |https://phoenix.security/new-features-november-2022/|
 | Qualys | TruRisk | Used as a variable in part of the TruRisk Score | |
