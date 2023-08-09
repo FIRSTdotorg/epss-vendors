@@ -25,7 +25,7 @@ A list of vendors with products who support EPSS in their products.
 | Phoenix Security | Act on Phoenix |https://phoenix.security/new-features-november-2022/|
 | Qualys | TruRisk |  |
 | Rezilion | Rezilion | https://www.rezilion.com/blog/introducing-our-new-software-supply-chain-security-features/ |
-| Secops Solution| EPSS Calculator | https://www.secopsolution.com/epss-calculator |
+| SecOps Solution| Full-Stack Vulnerability and Patch Management Platform | https://secopsolution.com/epss-calculator |
 | SecurityScorecard | CVE Details | https://www.cvedetails.com/epss/epss-score-history.html |
 | SOOS |Coming Coon|
 | Strobes | VM365 | https://help.strobes.co/hc/en-us/articles/13158942134801-Vulnerabilities-Custom-CSV-Export |
