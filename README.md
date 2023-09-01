@@ -11,7 +11,7 @@ A list of vendors with products who support EPSS in their products.
 | Coalition | Coalition Exploit Scoring System | https://ess.coalitioninc.com/ |
 | ConnectSecure | ConnectSecure Vulnerability Management | https://connectsecure.com/news/product-update-epss-empowers-msps-to-tackle-high-risk-vulnerabilities |
 | Cyberwatch | Cyberwatch Vulnerability Management | https://cyberwatch.fr/veille/epss-quest-ce-que-lexploit-prediction-scoring-system/|
-| Cybeats |
+| Cybeats | SBOM Studio | https://www.cybeats.com/sbom-studio |
 | Endor Labs | Endor Labs | https://www.endorlabs.com/blog/cve-vulnerability-epss-ssvc-reachability-vex |
 | Flashpoint | Flashpoint VulnDB | https://flashpoint.io/resources/datasheets/vulndb-ransomware-and-exploit-prediction-model/|
 | Fortinet | Forinet DAST | https://docs.fortinet.com/document/fortidast/23.3.0/user-guide/476620/vulnerabilities |
