@@ -21,7 +21,8 @@ A list of vendors with products who support EPSS in their products.
 | Manifest | Manifest | https://www.manifestcyber.com/blog/introducing-manifest | SBOM Management |
 | Mandiant | Mandiant Vulnerability Intelligence | https://www.mandiant.com/resources/blog/enhanced-vulnerability-intelligence||
 | Mend.io | Mend | https://docs.mend.io/bundle/sca_user_guide/page/view_epss_scores_for_container_images.html |
-| Netrise | 
+| Netrise | Netrise Platform | https://www.netrise.io/xiot-security-blog/sbom-ingest |
+| Noetic | Noetic Platform | https://noeticcyber.com/risk-driven-vulnerability-prioritization/ |
 | Nucleus Security | Nucleus Unified Vulnerability Management| https://nucleussec.com/blog/what-is-epss/ |
 | Oligo | Oligo | |
 | OWASP | Dependency Track | https://owasp.org/www-project/dependency-track |
