@@ -18,7 +18,8 @@ A list of vendors with products who support EPSS in their products.
 | Finit Estate | Finite State Platform | https://finitestate.io/products/finite-state-platform/ |
 | IBM Security | | |
 | Kodem | | |
-| Manifest | Manifest | https://www.manifestcyber.com/blog/introducing-manifest | SBOM Management |
+| Luna Sec | Luna Sec | https://www.lunasec.io/docs/blog/what-is-epss/ |
+| Manifest | Manifest | https://www.manifestcyber.com/blog/introducing-manifest |
 | Mandiant | Mandiant Vulnerability Intelligence | https://www.mandiant.com/resources/blog/enhanced-vulnerability-intelligence||
 | Mend.io | Mend | https://docs.mend.io/bundle/sca_user_guide/page/view_epss_scores_for_container_images.html |
 | Netrise | Netrise Platform | https://www.netrise.io/xiot-security-blog/sbom-ingest |
