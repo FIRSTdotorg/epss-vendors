@@ -18,6 +18,7 @@ A list of vendors with products who support EPSS in their products.
 | Cybeats | SBOM Studio | https://www.cybeats.com/sbom-studio |
 | Endor Labs | Endor Labs | https://www.endorlabs.com/blog/cve-vulnerability-epss-ssvc-reachability-vex |
 | Flashpoint | Flashpoint VulnDB | https://flashpoint.io/resources/datasheets/vulndb-ransomware-and-exploit-prediction-model/|
+|Fleet|  | https://fleetdm.com/upgrade |
 | Fortinet | Forinet DAST | https://docs.fortinet.com/document/fortidast/23.3.0/user-guide/476620/vulnerabilities |
 | Finit Estate | Finite State Platform | https://finitestate.io/products/finite-state-platform/ |
 | IBM Security | | |
