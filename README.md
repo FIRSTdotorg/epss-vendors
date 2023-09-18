@@ -1,4 +1,4 @@
-# EPSS-Vendors
+https://support.aquasec.com/support/solutions/articles/16000166626-2023-september-saas-update-release%23EPSS-(Exploit-Prediction-Scorin# EPSS-Vendors
 A list of vendors with products who support EPSS in their products.
 
 In order to be added to this list, please submit a pull request with a link to evidence that your product supports EPSS. 
@@ -6,6 +6,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 
 | Vendor | Product | Link |
 | ----------- | ----------- | ----------- |
+| Aqua Security | Aqua Workload Protection | https://support.aquasec.com/support/solutions/articles/16000166626-2023-september-saas-update-release%23EPSS-(Exploit-Prediction-Scorin |
 | Armis | Armis Asset Vulnerability Management module | https://www.armis.com/integrations/exploit-prediction-scoring-system-epss/ |
 | AWS | Inspector | https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-inspector-vulnerability-intelligence-findings/ |
 | Binarly | Transparency Platform | https://binarly.io/capabilities |
