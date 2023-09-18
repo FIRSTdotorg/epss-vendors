@@ -21,9 +21,10 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Cowbell | Cowbell Insurance | https://cowbell.insure/ |
 | Cyberwatch | Cyberwatch Vulnerability Management | https://cyberwatch.fr/veille/epss-quest-ce-que-lexploit-prediction-scoring-system/|
 | Cybeats | SBOM Studio | https://www.cybeats.com/sbom-studio |
+| Edgescan | Risk-Based Vulnerability Management Solution | https://www.edgescan.com/solutions/vulnerability-management/ |
 | Endor Labs | Endor Labs | https://www.endorlabs.com/blog/cve-vulnerability-epss-ssvc-reachability-vex |
 | Flashpoint | Flashpoint VulnDB | https://flashpoint.io/resources/datasheets/vulndb-ransomware-and-exploit-prediction-model/|
-|Fleet|  | https://fleetdm.com/upgrade |
+| Fleet |  | https://fleetdm.com/upgrade |
 | Fortinet | Forinet DAST | https://docs.fortinet.com/document/fortidast/23.3.0/user-guide/476620/vulnerabilities |
 | Finit Estate | Finite State Platform | https://finitestate.io/products/finite-state-platform/ |
 | IBM Security | | |
