@@ -1,6 +1,9 @@
 # EPSS-Vendors
 A list of vendors with products who support EPSS in their products.
 
+In order to be added to this list, please submit a pull request with a link to evidence that your product supports EPSS. 
+You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/in/patrickmgarrity/
+
 | Vendor | Product | Link |
 | ----------- | ----------- | ----------- |
 | Armis | Armis Asset Vulnerability Management module | https://www.armis.com/integrations/exploit-prediction-scoring-system-epss/ |
@@ -9,6 +12,7 @@ A list of vendors with products who support EPSS in their products.
 | Axonius | Vulnerability Management Module | https://docs.axonius.com/docs/vulnerabilities |
 | Bomber| Bomber | https://github.com/devops-kung-fu/bomber |
 | Brinqa | Cyber Risk Platform | https://www.brinqa.com/glossary/what-is-epss-score/ |
+| Boost | | https://docs.boostsecurity.io/user-guide/new_release.html#2023-03-09 |
 | Binarly | Transparency Platform |https://binarly.io/capabilities|
 | Claroty | vulnerability and Risk Management | https://claroty.com/press-releases/claroty-unveils-new-vulnerability-risk-management-capabilities-to-supercharge-risk-reduction-for-cyber-physical-systems |
 | Cisco | Kenna Security | https://www.helpnetsecurity.com/2019/11/04/kenna-security-exploit-prediction-scoring-system/ |
