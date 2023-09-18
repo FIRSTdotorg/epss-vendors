@@ -5,7 +5,7 @@ A list of vendors with products who support EPSS in their products.
 | ----------- | ----------- | ----------- |
 | Armis | Armis Asset Vulnerability Management module | https://www.armis.com/integrations/exploit-prediction-scoring-system-epss/ |
 | AWS | Inspector | https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-inspector-vulnerability-intelligence-findings/ |
-| Binarily |  |  |
+| Binarly | Transparency Platform | https://binarly.io/capabilities |
 | Axonius | Vulnerability Management Module | https://docs.axonius.com/docs/vulnerabilities |
 | Bomber| Bomber | https://github.com/devops-kung-fu/bomber |
 | Brinqa | Cyber Risk Platform | https://www.brinqa.com/glossary/what-is-epss-score/ |
@@ -32,9 +32,10 @@ A list of vendors with products who support EPSS in their products.
 | Oligo | Oligo | |
 | OWASP | Dependency Track | https://owasp.org/www-project/dependency-track |
 | Phoenix Security | Act on Phoenix |https://phoenix.security/new-features-november-2022/|
-| Qualys | TruRisk |  |
+| Qualys | TruRisk | https://blog.qualys.com/qualys-insights/2022/10/10/in-depth-look-into-data-driven-science-behind-qualys-trurisk |
 | Rezilion | Rezilion | https://www.rezilion.com/blog/introducing-our-new-software-supply-chain-security-features/ |
 | SecOps Solution| Full-Stack Vulnerability and Patch Management Platform | https://secopsolution.com/epss-calculator |
+| Securin | Vulnerability Intelligence | https://www.securin.io/vulnerability-intelligence/ |
 | SecurityScorecard | CVE Details | https://www.cvedetails.com/epss/epss-score-history.html |
 | SOOS |Coming Coon|
 | Strobes | VM365 | https://help.strobes.co/hc/en-us/articles/13158942134801-Vulnerabilities-Custom-CSV-Export |
