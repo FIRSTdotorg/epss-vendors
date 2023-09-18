@@ -12,7 +12,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Axonius | Vulnerability Management Module | https://docs.axonius.com/docs/vulnerabilities |
 | Bomber| Bomber | https://github.com/devops-kung-fu/bomber |
 | Brinqa | Cyber Risk Platform | https://www.brinqa.com/glossary/what-is-epss-score/ |
-| Boost | | https://docs.boostsecurity.io/user-guide/new_release.html#2023-03-09 |
+| Boost Security | DevSecOps Platform | https://docs.boostsecurity.io/user-guide/new_release.html#2023-03-09 |
 | Binarly | Transparency Platform |https://binarly.io/capabilities|
 | Claroty | vulnerability and Risk Management | https://claroty.com/press-releases/claroty-unveils-new-vulnerability-risk-management-capabilities-to-supercharge-risk-reduction-for-cyber-physical-systems |
 | Cisco | Kenna Security | https://www.helpnetsecurity.com/2019/11/04/kenna-security-exploit-prediction-scoring-system/ |
