@@ -1,4 +1,3 @@
-https://support.aquasec.com/support/solutions/articles/16000166626-2023-september-saas-update-release%23EPSS-(Exploit-Prediction-Scorin# EPSS-Vendors
 A list of vendors with products who support EPSS in their products.
 
 In order to be added to this list, please submit a pull request with a link to evidence that your product supports EPSS. 
@@ -25,11 +24,11 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Edgescan | Risk-Based Vulnerability Management Solution | https://www.edgescan.com/solutions/vulnerability-management/ |
 | Endor Labs | Endor Labs | https://www.endorlabs.com/blog/cve-vulnerability-epss-ssvc-reachability-vex |
 | Flashpoint | Flashpoint VulnDB | https://flashpoint.io/resources/datasheets/vulndb-ransomware-and-exploit-prediction-model/|
-| Fleet |  | https://fleetdm.com/upgrade |
+| Fleet | Open-source device management | https://fleetdm.com/upgrade |
 | Fortinet | Forinet DAST | https://docs.fortinet.com/document/fortidast/23.3.0/user-guide/476620/vulnerabilities |
 | Finit Estate | Finite State Platform | https://finitestate.io/products/finite-state-platform/ |
 | IBM Security | | |
-| Kodem | | |
+| Kodem | Kodem Security | https://www.kodemsecurity.com/ |
 | Luna Sec | Luna Sec | https://www.lunasec.io/docs/blog/what-is-epss/ |
 | Manifest | Manifest | https://www.manifestcyber.com/blog/introducing-manifest |
 | Mandiant | Mandiant Vulnerability Intelligence | https://www.mandiant.com/resources/blog/enhanced-vulnerability-intelligence||
@@ -37,7 +36,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Netrise | Netrise Platform | https://www.netrise.io/xiot-security-blog/sbom-ingest |
 | Noetic | Noetic Platform | https://noeticcyber.com/risk-driven-vulnerability-prioritization/ |
 | Nucleus Security | Nucleus Unified Vulnerability Management| https://nucleussec.com/blog/what-is-epss/ |
-| Oligo | Oligo | |
+| Oligo | Dynamic SCA | https://www.oligo.security/ |
 | OWASP | Dependency Track | https://owasp.org/www-project/dependency-track |
 | Phoenix Security | Act on Phoenix |https://phoenix.security/new-features-november-2022/|
 | Qualys | TruRisk | https://blog.qualys.com/qualys-insights/2022/10/10/in-depth-look-into-data-driven-science-behind-qualys-trurisk |
@@ -45,7 +44,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | SecOps Solution| Full-Stack Vulnerability and Patch Management Platform | https://secopsolution.com/epss-calculator |
 | Securin | Vulnerability Intelligence | https://www.securin.io/vulnerability-intelligence/ |
 | SecurityScorecard | CVE Details | https://www.cvedetails.com/epss/epss-score-history.html |
-| SOOS |Coming Coon|
+| Seemplicity | Seemplicity | https://seemplicity.io/different-approaches-for-vulnerability-prioritization/ |
 | Strobes | VM365 | https://help.strobes.co/hc/en-us/articles/13158942134801-Vulnerabilities-Custom-CSV-Export |
 | Snyk | Security Intelligence | https://snyk.io/blog/improved-risk-assessment-with-epss-scores-in-snyk/ |
 | VulDB | Cyber Threat Intelligence |https://vuldb.com/?kb.epss| |
@@ -53,3 +52,6 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | VulnCheck | VulnCheck Exploit & Vulnerability Intelligence | https://vulncheck.com/product/exploit-intelligence |
 | Vulners | Vulners Database | https://vulners.com/search |
 | Wiz | Wiz Platform | https://www.wiz.io/ |
+
+Coming Soon
+| SOOS |
