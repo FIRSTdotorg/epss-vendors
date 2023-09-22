@@ -26,6 +26,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Endor Labs | Endor Labs | https://www.endorlabs.com/blog/cve-vulnerability-epss-ssvc-reachability-vex |
 | Flashpoint | Flashpoint VulnDB | https://flashpoint.io/resources/datasheets/vulndb-ransomware-and-exploit-prediction-model/|
 | Fleet | Open-source device management | https://fleetdm.com/upgrade |
+| ForeScout | Risk and Exposure Management | https://www.forescout.com/products/rem/ |
 | Fortinet | Forinet DAST | https://docs.fortinet.com/document/fortidast/23.3.0/user-guide/476620/vulnerabilities |
 | Finit Estate | Finite State Platform | https://finitestate.io/products/finite-state-platform/ |
 | IBM Security | | |
