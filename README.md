@@ -28,6 +28,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Fleet | Open-source device management | https://fleetdm.com/upgrade |
 | ForeScout | Risk and Exposure Management | https://www.forescout.com/products/rem/ |
 | Fortinet | Forinet DAST | https://docs.fortinet.com/document/fortidast/23.3.0/user-guide/476620/vulnerabilities |
+| FortMesa | Riskchain VM | https://land.fortmesa.com/vulnerability-management-101 |
 | Finit Estate | Finite State Platform | https://finitestate.io/products/finite-state-platform/ |
 | IBM Security | | |
 | Kodem | Kodem Security | https://www.kodemsecurity.com/ |
