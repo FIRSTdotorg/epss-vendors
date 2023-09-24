@@ -44,6 +44,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Phoenix Security | Act on Phoenix |https://phoenix.security/new-features-november-2022/|
 | Qualys | TruRisk | https://blog.qualys.com/qualys-insights/2022/10/10/in-depth-look-into-data-driven-science-behind-qualys-trurisk |
 | Rezilion | Rezilion | https://www.rezilion.com/blog/introducing-our-new-software-supply-chain-security-features/ |
+| SecLogic | CyberQ Shield | https://seclogic.io/ |
 | SecOps Solution| Full-Stack Vulnerability and Patch Management Platform | https://secopsolution.com/epss-calculator |
 | Securin | Vulnerability Intelligence | https://www.securin.io/vulnerability-intelligence/ |
 | SecurityScorecard | CVE Details | https://www.cvedetails.com/epss/epss-score-history.html |
