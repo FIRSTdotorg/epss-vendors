@@ -40,6 +40,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Noetic | Noetic Platform | https://noeticcyber.com/risk-driven-vulnerability-prioritization/ |
 | Nucleus Security | Nucleus Unified Vulnerability Management| https://nucleussec.com/blog/what-is-epss/ |
 | Oligo | Dynamic SCA | https://www.oligo.security/ |
+| Opswright | Opswright Impact Platform | https://opswright.com/ |
 | OWASP | Dependency Track | https://owasp.org/www-project/dependency-track |
 | Phoenix Security | Act on Phoenix |https://phoenix.security/new-features-november-2022/|
 | Qualys | TruRisk | https://blog.qualys.com/qualys-insights/2022/10/10/in-depth-look-into-data-driven-science-behind-qualys-trurisk |
