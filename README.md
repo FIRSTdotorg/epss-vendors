@@ -50,6 +50,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Securin | Vulnerability Intelligence | https://www.securin.io/vulnerability-intelligence/ |
 | SecurityScorecard | CVE Details | https://www.cvedetails.com/epss/epss-score-history.html |
 | Seemplicity | Seemplicity | https://seemplicity.io/different-approaches-for-vulnerability-prioritization/ |
+| SOOS | SOOS Security  | https://kb.soos.io/help/exploitable-vulnerabilities |
 | Strobes | VM365 | https://help.strobes.co/hc/en-us/articles/13158942134801-Vulnerabilities-Custom-CSV-Export |
 | Snyk | Security Intelligence | https://snyk.io/blog/improved-risk-assessment-with-epss-scores-in-snyk/ |
 | VulDB | Cyber Threat Intelligence |https://vuldb.com/?kb.epss| |
@@ -57,6 +58,3 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | VulnCheck | VulnCheck Exploit & Vulnerability Intelligence | https://vulncheck.com/product/exploit-intelligence |
 | Vulners | Vulners Database | https://vulners.com/search |
 | Wiz | Wiz Platform | https://www.wiz.io/ |
-
-Coming Soon
-| SOOS |
