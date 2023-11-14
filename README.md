@@ -30,6 +30,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Fortinet | Forinet DAST | https://docs.fortinet.com/document/fortidast/23.3.0/user-guide/476620/vulnerabilities |
 | FortMesa | Riskchain VM | https://land.fortmesa.com/vulnerability-management-101 |
 | Finit Estate | Finite State Platform | https://finitestate.io/products/finite-state-platform/ |
+| HackerOne | CVE Discovery | https://hackerone.com/hacktivity/cve_discovery |
 | IBM Security | | |
 | Kodem | Kodem Security | https://www.kodemsecurity.com/ |
 | Luna Sec | Luna Sec | https://www.lunasec.io/docs/blog/what-is-epss/ |
@@ -53,6 +54,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | SOOS | SOOS Security  | https://kb.soos.io/help/exploitable-vulnerabilities |
 | Strobes | VM365 | https://help.strobes.co/hc/en-us/articles/13158942134801-Vulnerabilities-Custom-CSV-Export |
 | Snyk | Security Intelligence | https://snyk.io/blog/improved-risk-assessment-with-epss-scores-in-snyk/ |
+| Uptycs | The first unified CNAPP and XDR platform | https://www.uptycs.com/products/why-uptycs |
 | VulDB | Cyber Threat Intelligence |https://vuldb.com/?kb.epss| |
 | Vulcan | Vulcan Cyber Risk Management Platform | https://vulcan.io/blog/thinking-of-using-epss-heres-what-you-need-to-know/|
 | VulnCheck | VulnCheck Exploit & Vulnerability Intelligence | https://vulncheck.com/product/exploit-intelligence |
