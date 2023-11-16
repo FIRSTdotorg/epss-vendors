@@ -51,6 +51,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Securin | Vulnerability Intelligence | https://www.securin.io/vulnerability-intelligence/ |
 | SecurityScorecard | CVE Details | https://www.cvedetails.com/epss/epss-score-history.html |
 | Seemplicity | Seemplicity | https://seemplicity.io/different-approaches-for-vulnerability-prioritization/ |
+| SPDX | The Software Package Data Exchange (SPDX) | https://spdx.dev/capturing-software-vulnerability-data-in-spdx-3-0/ |
 | SOOS | SOOS Security  | https://kb.soos.io/help/exploitable-vulnerabilities |
 | Strobes | VM365 | https://help.strobes.co/hc/en-us/articles/13158942134801-Vulnerabilities-Custom-CSV-Export |
 | Snyk | Security Intelligence | https://snyk.io/blog/improved-risk-assessment-with-epss-scores-in-snyk/ |
