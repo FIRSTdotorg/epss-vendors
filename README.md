@@ -26,6 +26,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Datadog | Application Vulnerability Management | https://www.datadoghq.com/product/application-vulnerability-management/ |
 | Edgescan | Risk-Based Vulnerability Management Solution | https://www.edgescan.com/solutions/vulnerability-management/ |
 | Endor Labs | Endor Labs | https://www.endorlabs.com/blog/cve-vulnerability-epss-ssvc-reachability-vex |
+| FOSSA | The Modern Open Source Risk Platform | https://fossa.com/blog/understanding-using-epss-scoring-system/ |
 | Flashpoint | Flashpoint VulnDB | https://flashpoint.io/resources/datasheets/vulndb-ransomware-and-exploit-prediction-model/|
 | Fleet | Open-source device management | https://fleetdm.com/upgrade |
 | ForeScout | Risk and Exposure Management | https://www.forescout.com/products/rem/ |
