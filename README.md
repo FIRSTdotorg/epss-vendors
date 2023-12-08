@@ -25,6 +25,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Cyberwatch | Cyberwatch Vulnerability Management | https://cyberwatch.fr/veille/epss-quest-ce-que-lexploit-prediction-scoring-system/|
 | Cybeats | SBOM Studio | https://www.cybeats.com/sbom-studio |
 | Datadog | Application Vulnerability Management | https://www.datadoghq.com/product/application-vulnerability-management/ |
+| EdgeBit | EdgeBit Security Platform | https://edgebit.io/docs/0.x/investigate-epss/ |
 | Edgescan | Risk-Based Vulnerability Management Solution | https://www.edgescan.com/solutions/vulnerability-management/ |
 | Endor Labs | Endor Labs | https://www.endorlabs.com/blog/cve-vulnerability-epss-ssvc-reachability-vex |
 | FOSSA | The Modern Open Source Risk Platform | https://fossa.com/blog/understanding-using-epss-scoring-system/ |
