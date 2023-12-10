@@ -10,7 +10,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Armis | Armis Asset Vulnerability Management module | https://www.armis.com/integrations/exploit-prediction-scoring-system-epss/ |
 | Avalor | Avalor Security Data Fabric | https://www.avalor.io/integrations |
 | AWS | Inspector | https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-inspector-vulnerability-intelligence-findings/ |
-| Backlash | Reachability SAST/DAST | www.backslash.security |
+| Backlash | Reachability SAST/SCA | www.backslash.security |
 | Binarly | Transparency Platform | https://binarly.io/capabilities |
 | Axonius | Vulnerability Management Module | https://docs.axonius.com/docs/vulnerabilities |
 | Bomber| Bomber | https://github.com/devops-kung-fu/bomber |
