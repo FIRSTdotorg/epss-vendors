@@ -40,6 +40,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | HackerOne | CVE Discovery | https://hackerone.com/hacktivity/cve_discovery |
 | IBM Security | | |
 | Kodem | Kodem Security | https://www.kodemsecurity.com/ |
+| Legit Security | Legit Supply Chain Security | https://www.legitsecurity.com/ |
 | Luna Sec | Luna Sec | https://www.lunasec.io/docs/blog/what-is-epss/ |
 | Manifest | Manifest | https://www.manifestcyber.com/blog/introducing-manifest |
 | Mandiant | Mandiant Vulnerability Intelligence | https://www.mandiant.com/resources/blog/enhanced-vulnerability-intelligence||
