@@ -65,6 +65,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | SOOS | SOOS Security  | https://kb.soos.io/help/exploitable-vulnerabilities |
 | Strobes | VM365 | https://help.strobes.co/hc/en-us/articles/13158942134801-Vulnerabilities-Custom-CSV-Export |
 | Snyk | Security Intelligence | https://snyk.io/blog/improved-risk-assessment-with-epss-scores-in-snyk/ |
+| Ultrared| Ultrared Threat Exposure Management | https://www.ultrared.ai/blog/epss-and-exposure-management |
 | Uptycs | The first unified CNAPP and XDR platform | https://www.uptycs.com/products/why-uptycs |
 | VulDB | Cyber Threat Intelligence |https://vuldb.com/?kb.epss| |
 | Vulcan | Vulcan Cyber Risk Management Platform | https://vulcan.io/blog/thinking-of-using-epss-heres-what-you-need-to-know/|
