@@ -25,6 +25,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Cowbell | Cowbell Insurance | https://cowbell.insure/ |
 | Cyberwatch | Cyberwatch Vulnerability Management | https://cyberwatch.fr/veille/epss-quest-ce-que-lexploit-prediction-scoring-system/|
 | Cybeats | SBOM Studio | https://www.cybeats.com/sbom-studio |
+| Cyscale | Cloud Security Platform | https://cyscale.com/blog/security-scoring-cvss4-vs-cvss3-need-to-know/ |
 | Datadog | Application Vulnerability Management | https://www.datadoghq.com/product/application-vulnerability-management/ |
 | Denexus | OT Cyber Risk Quantification | https://www.denexus.io/products/derisk/industrial
 | EdgeBit | EdgeBit Security Platform | https://edgebit.io/docs/0.x/investigate-epss/ |
