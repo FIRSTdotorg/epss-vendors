@@ -10,13 +10,12 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Armis | Armis Asset Vulnerability Management module | https://www.armis.com/integrations/exploit-prediction-scoring-system-epss/ |
 | Avalor | Avalor Security Data Fabric | https://www.avalor.io/integrations |
 | AWS | Inspector | https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-inspector-vulnerability-intelligence-findings/ |
+| Axonius | Vulnerability Management Module | https://docs.axonius.com/docs/vulnerabilities |
 | Backlash | Reachability SAST/SCA | www.backslash.security |
 | Binarly | Transparency Platform | https://binarly.io/capabilities |
-| Axonius | Vulnerability Management Module | https://docs.axonius.com/docs/vulnerabilities |
 | Bomber| Bomber | https://github.com/devops-kung-fu/bomber |
 | Brinqa | Cyber Risk Platform | https://www.brinqa.com/glossary/what-is-epss-score/ |
 | Boost Security | DevSecOps Platform | https://docs.boostsecurity.io/user-guide/new_release.html#2023-03-09 |
-| Binarly | Transparency Platform |https://binarly.io/capabilities|
 | Cavelo | Attack Surface Management | https://www.cavelo.com |
 | Claroty | vulnerability and Risk Management | https://claroty.com/press-releases/claroty-unveils-new-vulnerability-risk-management-capabilities-to-supercharge-risk-reduction-for-cyber-physical-systems |
 | Cisco | Kenna Security | https://www.helpnetsecurity.com/2019/11/04/kenna-security-exploit-prediction-scoring-system/ |
