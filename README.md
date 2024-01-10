@@ -62,6 +62,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | SecurityScorecard | CVE Details | https://www.cvedetails.com/epss/epss-score-history.html |
 | Seemplicity | Seemplicity | https://seemplicity.io/different-approaches-for-vulnerability-prioritization/ |
 | ServiceNow | ServiceNow Vulnerability Response | https://docs.servicenow.com/bundle/vancouver-security-management/page/product/secops-integration-vr/epss/concept/epss-vr-integration-overview.html |
+| Shield Cyber | Attacker-centric Exposure Management | https://www.shieldcyber.io/ |
 | SPDX | The Software Package Data Exchange (SPDX) | https://spdx.dev/capturing-software-vulnerability-data-in-spdx-3-0/ |
 | SOOS | SOOS Security  | https://kb.soos.io/help/exploitable-vulnerabilities |
 | Strobes | VM365 | https://help.strobes.co/hc/en-us/articles/13158942134801-Vulnerabilities-Custom-CSV-Export |
