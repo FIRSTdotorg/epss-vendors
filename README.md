@@ -28,6 +28,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Cyberwatch | Cyberwatch Vulnerability Management | https://cyberwatch.fr/veille/epss-quest-ce-que-lexploit-prediction-scoring-system/|
 | Cyscale | Cloud Security Platform | https://cyscale.com/blog/security-scoring-cvss4-vs-cvss3-need-to-know/ |
 | Datadog | Application Vulnerability Management | https://www.datadoghq.com/product/application-vulnerability-management/ |
+| Dazz | Dazz Unified Remediation Platform | https://www.dazz.io/platform |
 | Denexus | OT Cyber Risk Quantification | https://www.denexus.io/products/derisk/industrial
 | EdgeBit | EdgeBit Security Platform | https://edgebit.io/docs/0.x/investigate-epss/ |
 | Edgescan | Risk-Based Vulnerability Management Solution | https://www.edgescan.com/solutions/vulnerability-management/ |
