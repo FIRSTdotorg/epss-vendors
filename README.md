@@ -75,14 +75,15 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | ServiceNow | ServiceNow Vulnerability Response | https://docs.servicenow.com/bundle/vancouver-security-management/page/product/secops-integration-vr/epss/concept/epss-vr-integration-overview.html |
 | Shield Cyber | Attacker-centric Exposure Management | https://www.shieldcyber.io/ |
 | SideChannel | Enclave | https://sidechannel.com/blog/enhance-your-security-measures-with-effective-epss-and-exposure-management/ |
-| SPDX | The Software Package Data Exchange (SPDX) | https://spdx.dev/capturing-software-vulnerability-data-in-spdx-3-0/ |
-| SOOS | SOOS Security  | https://kb.soos.io/help/exploitable-vulnerabilities |
-| Strobes | VM365 | https://help.strobes.co/hc/en-us/articles/13158942134801-Vulnerabilities-Custom-CSV-Export |
 | Snyk | Security Intelligence | https://snyk.io/blog/improved-risk-assessment-with-epss-scores-in-snyk/ |
+| SOCRadar | Extended Threat Intelligence | https://socradar.io/predicting-vulnerability-exploitation-for-proactive-cybersecurity-whats-epss-and-how-can-svrs-enhance-it/ |
+| SOOS | SOOS Security  | https://kb.soos.io/help/exploitable-vulnerabilities |
+| SPDX | The Software Package Data Exchange (SPDX) | https://spdx.dev/capturing-software-vulnerability-data-in-spdx-3-0/ |
+| Strobes | VM365 | https://help.strobes.co/hc/en-us/articles/13158942134801-Vulnerabilities-Custom-CSV-Export |
 | Ultrared| Ultrared Threat Exposure Management | https://www.ultrared.ai/blog/epss-and-exposure-management |
 | Uptycs | The first unified CNAPP and XDR platform | https://www.uptycs.com/products/why-uptycs |
-| VulDB | Cyber Threat Intelligence |https://vuldb.com/?kb.epss| |
 | Vulcan | Vulcan Cyber Risk Management Platform | https://vulcan.io/blog/thinking-of-using-epss-heres-what-you-need-to-know/|
+| VulDB | Cyber Threat Intelligence |https://vuldb.com/?kb.epss| |
 | VulnCheck | VulnCheck Exploit & Vulnerability Intelligence | https://vulncheck.com/product/exploit-intelligence |
 | Vulners | Vulners Database | https://vulners.com/search |
 | Wiz | Wiz Platform | https://www.wiz.io/ |
