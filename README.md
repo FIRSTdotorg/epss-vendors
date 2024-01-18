@@ -79,6 +79,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | SOCRadar | Extended Threat Intelligence | https://socradar.io/predicting-vulnerability-exploitation-for-proactive-cybersecurity-whats-epss-and-how-can-svrs-enhance-it/ |
 | SOOS | SOOS Security  | https://kb.soos.io/help/exploitable-vulnerabilities |
 | SPDX | The Software Package Data Exchange (SPDX) | https://spdx.dev/capturing-software-vulnerability-data-in-spdx-3-0/ |
+| Stackaware | AI Risk Management | https://stackaware.com/ |
 | Strobes | VM365 | https://help.strobes.co/hc/en-us/articles/13158942134801-Vulnerabilities-Custom-CSV-Export |
 | Ultrared| Ultrared Threat Exposure Management | https://www.ultrared.ai/blog/epss-and-exposure-management |
 | Uptycs | The first unified CNAPP and XDR platform | https://www.uptycs.com/products/why-uptycs |
