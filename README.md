@@ -65,6 +65,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Opswright | Opswright Impact Platform | https://opswright.com/ |
 | OWASP | Dependency Track | https://owasp.org/www-project/dependency-track |
 | Phoenix Security | Act on Phoenix |https://phoenix.security/new-features-november-2022/|
+| Precursor | Penetration Testing and Continuous Security Testing Services | https://www.precursorsecurity.com/ |
 | Qualys | TruRisk | https://blog.qualys.com/qualys-insights/2022/10/10/in-depth-look-into-data-driven-science-behind-qualys-trurisk |
 | Rezilion | Rezilion | https://www.rezilion.com/blog/introducing-our-new-software-supply-chain-security-features/ |
 | SecLogic | CyberQ Shield | https://seclogic.io/ |
