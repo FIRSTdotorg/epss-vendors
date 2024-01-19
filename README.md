@@ -50,6 +50,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | FortMesa | Riskchain VM | https://land.fortmesa.com/vulnerability-management-101 |
 | Finit Estate | Finite State Platform | https://finitestate.io/products/finite-state-platform/ |
 | HackerOne | CVE Discovery | https://hackerone.com/hacktivity/cve_discovery |
+| Hackuity | Risk-Based Vulnerability Management | https://www.hackuity.io/ |
 | IBM Security | | |
 | Kodem | Kodem Security | https://www.kodemsecurity.com/ |
 | Legit Security | Legit Supply Chain Security | https://www.legitsecurity.com/ |
