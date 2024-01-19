@@ -84,6 +84,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Strobes | VM365 | https://help.strobes.co/hc/en-us/articles/13158942134801-Vulnerabilities-Custom-CSV-Export |
 | Ultrared| Ultrared Threat Exposure Management | https://www.ultrared.ai/blog/epss-and-exposure-management |
 | Uptycs | The first unified CNAPP and XDR platform | https://www.uptycs.com/products/why-uptycs |
+| Veracode | Veracode SCA | https://docs.veracode.com/r/Understanding_SCA_exploitability_information | 
 | Vulcan | Vulcan Cyber Risk Management Platform | https://vulcan.io/blog/thinking-of-using-epss-heres-what-you-need-to-know/|
 | VulDB | Cyber Threat Intelligence |https://vuldb.com/?kb.epss| |
 | VulnCheck | VulnCheck Exploit & Vulnerability Intelligence | https://vulncheck.com/product/exploit-intelligence |
