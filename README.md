@@ -63,6 +63,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Netrise | Netrise Platform | https://www.netrise.io/xiot-security-blog/sbom-ingest |
 | Noetic | Noetic Platform | https://noeticcyber.com/risk-driven-vulnerability-prioritization/ |
 | Nucleus Security | Nucleus Unified Vulnerability Management| https://nucleussec.com/blog/what-is-epss/ |
+| NTT DATA | YaVS / SecDB Portal | https://secdb.nttzen.cloud |
 | Oligo | Dynamic SCA | https://www.oligo.security/ |
 | Opswright | Opswright Impact Platform | https://opswright.com/ |
 | OWASP | Dependency Track | https://owasp.org/www-project/dependency-track |
