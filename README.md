@@ -68,6 +68,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | NTT DATA | YaVS / SecDB Portal | https://secdb.nttzen.cloud |
 | Oligo | Dynamic SCA | https://www.oligo.security/ |
 | Opswright | Opswright Impact Platform | https://opswright.com/ |
+| Orca | Cloud Security Platform | https://orca.security/resources/blog/epss-scoring-system-explained/ |
 | OWASP | Dependency Track | https://owasp.org/www-project/dependency-track |
 | Phoenix Security | Act on Phoenix |https://phoenix.security/new-features-november-2022/|
 | Precursor | Penetration Testing and Continuous Security Testing Services | https://www.precursorsecurity.com/ |
