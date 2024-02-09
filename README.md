@@ -56,6 +56,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Hackuity | Risk-Based Vulnerability Management | https://www.hackuity.io/ |
 | IBM Security | | |
 | Kodem | Kodem Security | https://www.kodemsecurity.com/ |
+| Kondukto | Kondukto ASPM Platform | https://kondukto.io/ |
 | Legit Security | Legit Supply Chain Security | https://www.legitsecurity.com/ |
 | Luna Sec | Luna Sec | https://www.lunasec.io/docs/blog/what-is-epss/ |
 | Manifest | Manifest | https://www.manifestcyber.com/blog/introducing-manifest |
