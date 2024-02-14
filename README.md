@@ -35,6 +35,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | ConnectSecure | ConnectSecure Vulnerability Management | https://connectsecure.com/news/product-update-epss-empowers-msps-to-tackle-high-risk-vulnerabilities |
 | Cowbell | Cowbell Insurance | https://cowbell.insure/ |
 | Culinda | Culinda Cloud Security | https://www.culinda.io/ |
+| CTM360 | Threat Cover | https://www.ctm360.com/ |
 | Cybeats | SBOM Studio | https://www.cybeats.com/sbom-studio |
 | Cyberwatch | Cyberwatch Vulnerability Management | https://cyberwatch.fr/veille/epss-quest-ce-que-lexploit-prediction-scoring-system/|
 | Cyscale | Cloud Security Platform | https://cyscale.com/blog/security-scoring-cvss4-vs-cvss3-need-to-know/ |
