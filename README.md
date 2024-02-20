@@ -101,3 +101,4 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Vulners | Vulners Database | https://vulners.com/search |
 | Wiz | Wiz Platform | https://www.wiz.io/ |
 | Würth Phoenix | SATAYO CTI Platform | https://www.neteye-blog.com/2023/12/epss-implementation-in-satayo/ |
+| Yes We Hack | Bug Bounty & Vulnerability Management Platform | https://www.yeswehack.com/ |
