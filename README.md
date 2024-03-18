@@ -87,6 +87,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Seemplicity | Seemplicity | https://seemplicity.io/different-approaches-for-vulnerability-prioritization/ |
 | ServiceNow | ServiceNow Vulnerability Response | https://docs.servicenow.com/bundle/vancouver-security-management/page/product/secops-integration-vr/epss/concept/epss-vr-integration-overview.html |
 | Shield Cyber | Attacker-centric Exposure Management | https://www.shieldcyber.io/ |
+| Shodan | CVEDB API | https://cvedb.shodan.io/ |
 | SideChannel | Enclave | https://sidechannel.com/blog/enhance-your-security-measures-with-effective-epss-and-exposure-management/ |
 | Snyk | Security Intelligence | https://snyk.io/blog/improved-risk-assessment-with-epss-scores-in-snyk/ |
 | SOCRadar | Extended Threat Intelligence | https://socradar.io/predicting-vulnerability-exploitation-for-proactive-cybersecurity-whats-epss-and-how-can-svrs-enhance-it/ |
