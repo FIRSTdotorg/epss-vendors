@@ -46,6 +46,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Dazz | Dazz Unified Remediation Platform | https://www.dazz.io/platform |
 | Denexus | OT Cyber Risk Quantification | https://www.denexus.io/products/derisk/industrial
 | DevOcean | Low-Touch Remediation Platform | https://www.devocean.security/blog/epss-everything-you-need-to-know |
+| Docker Scout | Solution for proactively enhancing your software supply chain security | https://www.docker.com/products/docker-scout/ |
 | EdgeBit | EdgeBit Security Platform | https://edgebit.io/docs/0.x/investigate-epss/ |
 | Edgescan | Risk-Based Vulnerability Management Solution | https://www.edgescan.com/solutions/vulnerability-management/ |
 | Endor Labs | Endor Labs | https://www.endorlabs.com/blog/cve-vulnerability-epss-ssvc-reachability-vex |
