@@ -90,6 +90,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Shield Cyber | Attacker-centric Exposure Management | https://www.shieldcyber.io/ |
 | Shodan | CVEDB API | https://cvedb.shodan.io/ |
 | SideChannel | Enclave | https://sidechannel.com/blog/enhance-your-security-measures-with-effective-epss-and-exposure-management/ |
+| Skybox | Vulnerability & Threat Management | https://www.skyboxsecurity.com/products/vulnerability-control/ |
 | Snyk | Security Intelligence | https://snyk.io/blog/improved-risk-assessment-with-epss-scores-in-snyk/ |
 | SOCRadar | Extended Threat Intelligence | https://socradar.io/predicting-vulnerability-exploitation-for-proactive-cybersecurity-whats-epss-and-how-can-svrs-enhance-it/ |
 | SOOS | SOOS Security  | https://kb.soos.io/help/exploitable-vulnerabilities |
