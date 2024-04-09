@@ -101,6 +101,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Ultrared| Ultrared Threat Exposure Management | https://www.ultrared.ai/blog/epss-and-exposure-management |
 | Uptycs | The first unified CNAPP and XDR platform | https://www.uptycs.com/products/why-uptycs |
 | Veracode | Veracode SCA | https://docs.veracode.com/r/Understanding_SCA_exploitability_information | 
+| Verve | Verve Security Center | https://verveindustrial.com/resources/blog/calculated-risk-rating-data-driven-ot-risk-assessment/ |
 | Vulcan | Vulcan Cyber Risk Management Platform | https://vulcan.io/blog/thinking-of-using-epss-heres-what-you-need-to-know/|
 | VulDB | Cyber Threat Intelligence |https://vuldb.com/?kb.epss| |
 | VulnCheck | VulnCheck Exploit & Vulnerability Intelligence | https://vulncheck.com/product/exploit-intelligence |
