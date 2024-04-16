@@ -44,6 +44,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Cyscale | Cloud Security Platform | https://cyscale.com/blog/security-scoring-cvss4-vs-cvss3-need-to-know/ |
 | Datadog | Application Vulnerability Management | https://www.datadoghq.com/product/application-vulnerability-management/ |
 | Dazz | Dazz Unified Remediation Platform | https://www.dazz.io/platform |
+| Deepfactor | Application Security Platform | https://www.deepfactor.io/deepfactor-3-5-includes-enhanced-vulnerability-prioritization-with-epss-support-and-reachability-analysis-for-golang/ | 
 | Denexus | OT Cyber Risk Quantification | https://www.denexus.io/products/derisk/industrial
 | DevOcean | Low-Touch Remediation Platform | https://www.devocean.security/blog/epss-everything-you-need-to-know |
 | Docker Scout | Solution for proactively enhancing your software supply chain security | https://www.docker.com/products/docker-scout/ |
