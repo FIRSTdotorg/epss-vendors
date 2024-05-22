@@ -38,6 +38,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Cowbell | Cowbell Insurance | https://cowbell.insure/ |
 | Culinda | Culinda Cloud Security | https://www.culinda.io/ |
 | CTM360 | Threat Cover | https://www.ctm360.com/ |
+| CVE Crowd | CVEs discussed on the Fediverse | https://cvecrowd.com/ |
 | Cybeats | SBOM Studio | https://www.cybeats.com/sbom-studio |
 | CybelAngel | Asset Discovery & Monitoring | https://cybelangel.com/asset-discovery-and-monitoring/ |
 | Cyberwatch | Cyberwatch Vulnerability Management | https://cyberwatch.fr/veille/epss-quest-ce-que-lexploit-prediction-scoring-system/|
