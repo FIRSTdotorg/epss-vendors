@@ -71,6 +71,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Mend.io | Mend | https://docs.mend.io/bundle/sca_user_guide/page/view_epss_scores_for_container_images.html |
 | Morphisec | Morphisec Vulnerability Management | https://blog.morphisec.com/morphisec-next-gen-risk-based-vulnerability-prioritization |
 | Netrise | Netrise Platform | https://www.netrise.io/xiot-security-blog/sbom-ingest |
+| NetSPI | Attack Surface Management (ASM) | https://www.netspi.com |
 | Noetic | Noetic Platform | https://noeticcyber.com/risk-driven-vulnerability-prioritization/ |
 | Nucleus Security | Nucleus Unified Vulnerability Management| https://nucleussec.com/blog/what-is-epss/ |
 | NTT DATA | YaVS / SecDB Portal | https://secdb.nttzen.cloud |
