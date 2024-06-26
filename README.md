@@ -80,6 +80,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Orca | Cloud Security Platform | https://orca.security/resources/blog/epss-scoring-system-explained/ |
 | Oryx Labs | Attack Surface Management | https://oryxlabs.ae/ |
 | OWASP | Dependency Track | https://owasp.org/www-project/dependency-track |
+| Palo Alto Network | Prisma Cloud | https://www.paloaltonetworks.com/prisma/cloud |
 | Palo Alto Network | Xpanse | https://www.paloaltonetworks.com/blog/security-operations/enable-proactive-incident-response-with-adaptive-risk-scoring/ |
 | Phoenix Security | Act on Phoenix |https://phoenix.security/new-features-november-2022/|
 | Precursor | Penetration Testing and Continuous Security Testing Services | https://www.precursorsecurity.com/ |
