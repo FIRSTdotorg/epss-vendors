@@ -2,7 +2,7 @@
 ---
 title: "Who is using EPSS?"
 attributes:
-  class: data-preview
+  class: data-preview #search-list paginate
 ...
 -->
 # Who is using EPSS?
@@ -22,7 +22,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Avalor | Avalor Security Data Fabric | https://www.avalor.io/integrations |
 | AWS | Inspector | https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-inspector-vulnerability-intelligence-findings/ |
 | Axonius | Vulnerability Management Module | https://docs.axonius.com/docs/vulnerabilities |
-| Backlash | Reachability SAST/SCA | www.backslash.security |
+| Backlash | Reachability SAST/SCA | https://www.backslash.security/ |
 | Binarly | Transparency Platform | https://binarly.io/capabilities |
 | Bomber| Bomber | https://github.com/devops-kung-fu/bomber |
 | Brinqa | Cyber Risk Platform | https://www.brinqa.com/glossary/what-is-epss-score/ |
