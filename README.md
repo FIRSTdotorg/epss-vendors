@@ -23,6 +23,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | AWS | Inspector | https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-inspector-vulnerability-intelligence-findings/ |
 | Axonius | Vulnerability Management Module | https://docs.axonius.com/docs/vulnerabilities |
 | Backlash | Reachability SAST/SCA | https://www.backslash.security/ |
+| Balbix | Risk-Based Vulnerability Management | https://www.balbix.com/product/risk-based-vulnerability-management/ |
 | Binarly | Transparency Platform | https://binarly.io/capabilities |
 | Bomber| Bomber | https://github.com/devops-kung-fu/bomber |
 | Brinqa | Cyber Risk Platform | https://www.brinqa.com/glossary/what-is-epss-score/ |
