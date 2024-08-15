@@ -9,7 +9,7 @@ attributes:
 
 A list of vendors with products who support EPSS in their products.
 
-In order to be added to this list, please submit a pull request with a link to evidence that your product supports EPSS. 
+In order to be added to this list, please [submit a pull request](https://github.com/FIRSTdotorg/epss-vendors) with a link to evidence that your product supports EPSS. 
 You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/in/patrickmgarrity/
 
 | Vendor | Product | Link |
@@ -95,6 +95,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Securin | Vulnerability Intelligence | https://www.securin.io/vulnerability-intelligence/ |
 | SecurityScorecard | CVE Details | https://www.cvedetails.com/epss/epss-score-history.html |
 | Seemplicity | Seemplicity | https://seemplicity.io/different-approaches-for-vulnerability-prioritization/ |
+| Semgrep | Semgrep AppSec Platform | https://semgrep.dev/ |
 | ServiceNow | ServiceNow Vulnerability Response | https://docs.servicenow.com/bundle/vancouver-security-management/page/product/secops-integration-vr/epss/concept/epss-vr-integration-overview.html |
 | Shield Cyber | Attacker-centric Exposure Management | https://www.shieldcyber.io/ |
 | Shodan | CVEDB API | https://cvedb.shodan.io/ |
