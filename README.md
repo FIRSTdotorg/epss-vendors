@@ -70,6 +70,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Manifest | Manifest | https://www.manifestcyber.com/blog/introducing-manifest |
 | Mandiant | Mandiant Vulnerability Intelligence | https://www.mandiant.com/resources/blog/enhanced-vulnerability-intelligence||
 | Mend.io | Mend | https://docs.mend.io/bundle/sca_user_guide/page/view_epss_scores_for_container_images.html |
+| Microsoft | Microsoft Defender | https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/enhancing-vulnerability-prioritization-with-asset-context-and/ba-p/4212480 |
 | Morphisec | Morphisec Vulnerability Management | https://blog.morphisec.com/morphisec-next-gen-risk-based-vulnerability-prioritization |
 | Netrise | Netrise Platform | https://www.netrise.io/xiot-security-blog/sbom-ingest |
 | NetSPI | Attack Surface Management (ASM) | https://www.netspi.com |
