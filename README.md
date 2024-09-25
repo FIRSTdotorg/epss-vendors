@@ -60,7 +60,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | ForeScout | Risk and Exposure Management | https://www.forescout.com/products/rem/ |
 | Fortinet | Forinet DAST | https://docs.fortinet.com/document/fortidast/23.3.0/user-guide/476620/vulnerabilities |
 | FortMesa | Riskchain VM | https://land.fortmesa.com/vulnerability-management-101 |
-| Finit Estate | Finite State Platform | https://finitestate.io/products/finite-state-platform/ |
+| Finite State | Finite State Platform | https://finitestate.io/products/finite-state-platform/ |
 | HackerOne | CVE Discovery | https://hackerone.com/hacktivity/cve_discovery |
 | Hackuity | Risk-Based Vulnerability Management | https://www.hackuity.io/ |
 | IBM Security | | |
