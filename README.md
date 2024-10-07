@@ -97,6 +97,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | SecurityScorecard | CVE Details | https://www.cvedetails.com/epss/epss-score-history.html |
 | Seemplicity | Seemplicity | https://seemplicity.io/different-approaches-for-vulnerability-prioritization/ |
 | Semgrep | Semgrep AppSec Platform | https://semgrep.dev/ |
+| SentinelOne | SentinelOne Vulnerability Management | https://www.sentinelone.com/platform/singularity-ranger-insights/ |
 | ServiceNow | ServiceNow Vulnerability Response | https://docs.servicenow.com/bundle/vancouver-security-management/page/product/secops-integration-vr/epss/concept/epss-vr-integration-overview.html |
 | Shield Cyber | Attacker-centric Exposure Management | https://www.shieldcyber.io/ |
 | Shodan | CVEDB API | https://cvedb.shodan.io/ |
