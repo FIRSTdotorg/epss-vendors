@@ -61,6 +61,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Fortinet | Forinet DAST | https://docs.fortinet.com/document/fortidast/23.3.0/user-guide/476620/vulnerabilities |
 | FortMesa | Riskchain VM | https://land.fortmesa.com/vulnerability-management-101 |
 | Finite State | Finite State Platform | https://finitestate.io/products/finite-state-platform/ |
+| Github Advisory Database | https://github.blog/changelog/2024-10-10-epss-scores-in-the-github-advisory-database/ |
 | HackerOne | CVE Discovery | https://hackerone.com/hacktivity/cve_discovery |
 | Hackuity | Risk-Based Vulnerability Management | https://www.hackuity.io/ |
 | IBM Security | | |
