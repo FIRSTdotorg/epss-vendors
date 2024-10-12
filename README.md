@@ -29,6 +29,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Brinqa | Cyber Risk Platform | https://www.brinqa.com/glossary/what-is-epss-score/ |
 | Boost Security | DevSecOps Platform | https://docs.boostsecurity.io/user-guide/new_release.html#2023-03-09 |
 | Cavelo | Attack Surface Management | https://www.cavelo.com |
+| CIRCL  | Vulnerability Lookup      | https://vulnerability.circl.lu |
 | cvefeed.io | Vulnerability Intelligence | https://cvefeed.io |
 | Cisco | Kenna Security | https://www.helpnetsecurity.com/2019/11/04/kenna-security-exploit-prediction-scoring-system/ |
 | Clavis | Risk-Based Vulnerability Priorization | https://produto.clavis.com.br/material-bart-gerenciamento-de-vulnerabilidade-baselines-analises-de-risco-testes-de-seguranca/ |
