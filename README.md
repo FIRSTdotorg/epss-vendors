@@ -68,6 +68,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | IBM Security | | |
 | Kodem | Kodem Security | https://www.kodemsecurity.com/ |
 | Kondukto | Kondukto ASPM Platform | https://kondukto.io/ |
+| Lansweeper | Lansweeper Asset Intelligence | https://community.lansweeper.com/t5/cyber-security-and-risk-insights/understanding-exploitability-fields/ta-p/77274 |
 | Legit Security | Legit Supply Chain Security | https://www.legitsecurity.com/ |
 | Luna Sec | Luna Sec | https://www.lunasec.io/docs/blog/what-is-epss/ |
 | Manifest | Manifest | https://www.manifestcyber.com/blog/introducing-manifest |
