@@ -58,6 +58,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | FOSSA | The Modern Open Source Risk Platform | https://fossa.com/blog/understanding-using-epss-scoring-system/ |
 | Flashpoint | Flashpoint VulnDB | https://flashpoint.io/resources/datasheets/vulndb-ransomware-and-exploit-prediction-model/|
 | Fleet | Open-source device management | https://fleetdm.com/upgrade |
+| Fluid Attacks | Fluid Attacks | https://fluidattacks.com/ |
 | ForeScout | Risk and Exposure Management | https://www.forescout.com/products/rem/ |
 | Fortinet | Forinet DAST | https://docs.fortinet.com/document/fortidast/23.3.0/user-guide/476620/vulnerabilities |
 | FortMesa | Riskchain VM | https://land.fortmesa.com/vulnerability-management-101 |
