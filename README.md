@@ -121,6 +121,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Verve | Verve Security Center | https://verveindustrial.com/resources/blog/calculated-risk-rating-data-driven-ot-risk-assessment/ |
 | Vulcan | Vulcan Cyber Risk Management Platform | https://vulcan.io/blog/thinking-of-using-epss-heres-what-you-need-to-know/|
 | VulDB | Cyber Threat Intelligence |https://vuldb.com/?kb.epss| |
+| Vulmon Search | Vulnerability Intelligence Search Engine | https://vulmon.com |
 | VulnCheck | VulnCheck Exploit & Vulnerability Intelligence | https://vulncheck.com/product/exploit-intelligence |
 | Vulners | Vulners Database | https://vulners.com/search |
 | Wiz | Wiz Platform | https://www.wiz.io/ |
