@@ -23,6 +23,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Avalor | Avalor Security Data Fabric | https://www.avalor.io/integrations |
 | AWS | Inspector | https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-inspector-vulnerability-intelligence-findings/ |
 | Axonius | Vulnerability Management Module | https://docs.axonius.com/docs/vulnerabilities |
+| Axxemble | BaseFortify | https://basefortify.eu/posts/2025/01/epss:_prioritizing_vulnerabilities_based_on_exploit_likelihood.html |
 | Backlash | Reachability SAST/SCA | https://www.backslash.security/ |
 | Balbix | Risk-Based Vulnerability Management | https://www.balbix.com/product/risk-based-vulnerability-management/ |
 | Binarly | Transparency Platform | https://binarly.io/capabilities |
