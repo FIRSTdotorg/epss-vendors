@@ -66,7 +66,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | FortMesa | Riskchain VM | https://land.fortmesa.com/vulnerability-management-101 |
 | Finite State | Finite State Platform | https://finitestate.io/products/finite-state-platform/ |
 | GitHub | Dependabot | https://docs.github.com/en/code-security/dependabot/dependabot-alerts/viewing-and-updating-dependabot-alerts |
-| Github Advisory Database | https://github.blog/changelog/2024-10-10-epss-scores-in-the-github-advisory-database/ |
+| Github Advisory Database | GHSA | https://github.blog/changelog/2024-10-10-epss-scores-in-the-github-advisory-database/ |
 | HackerOne | CVE Discovery | https://hackerone.com/hacktivity/cve_discovery |
 | Hackuity | Risk-Based Vulnerability Management | https://www.hackuity.io/ |
 | IBM Security | | |
