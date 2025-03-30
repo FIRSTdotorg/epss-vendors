@@ -70,6 +70,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | HackerOne | CVE Discovery | https://hackerone.com/hacktivity/cve_discovery |
 | Hackuity | Risk-Based Vulnerability Management | https://www.hackuity.io/ |
 | IBM Security | | |
+| Kerzinger | VulnDex | https://vulndex.at/ |
 | Keysight | Keysight IoT Security Assessment | https://www.keysight.com/be/en/products/network-security/iot-security-assessment.html |
 | Kodem | Kodem Security | https://www.kodemsecurity.com/ |
 | Kondukto | Kondukto ASPM Platform | https://kondukto.io/ |
