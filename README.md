@@ -37,6 +37,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Clavis | Risk-Based Vulnerability Priorization | https://produto.clavis.com.br/material-bart-gerenciamento-de-vulnerabilidade-baselines-analises-de-risco-testes-de-seguranca/ |
 | Cytidel | vulnerability and risk management platform | https://www.cytidel.com/ |
 | Claroty | vulnerability and Risk Management | https://claroty.com/press-releases/claroty-unveils-new-vulnerability-risk-management-capabilities-to-supercharge-risk-reduction-for-cyber-physical-systems |
+| Cloudsmith | Cloud Native Artifact Management Platform | https://cloudsmith.com/blog/cloudsmith-introduces-epss-scoring-in-enterprise-policy-management-epm |
 | Coalition | Coalition Exploit Scoring System | https://ess.coalitioninc.com/ |
 | ConnectSecure | ConnectSecure Vulnerability Management | https://connectsecure.com/news/product-update-epss-empowers-msps-to-tackle-high-risk-vulnerabilities |
 | Cowbell | Cowbell Insurance | https://cowbell.insure/ |
