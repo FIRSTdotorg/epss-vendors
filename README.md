@@ -27,6 +27,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Backlash | Reachability SAST/SCA | https://www.backslash.security/ |
 | Balbix | Risk-Based Vulnerability Management | https://www.balbix.com/product/risk-based-vulnerability-management/ |
 | Binarly | Transparency Platform | https://binarly.io/capabilities |
+| Black Kite | Third Party & Cyber Risk Management Platform | https://content.blackkite.com/ebook/2025-supply-chain-vulnerability-report/ |
 | Bomber| Bomber | https://github.com/devops-kung-fu/bomber |
 | Brinqa | Cyber Risk Platform | https://www.brinqa.com/glossary/what-is-epss-score/ |
 | Boost Security | DevSecOps Platform | https://docs.boostsecurity.io/user-guide/new_release.html#2023-03-09 |
