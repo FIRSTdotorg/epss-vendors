@@ -85,6 +85,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Microsoft | Microsoft Defender | https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/enhancing-vulnerability-prioritization-with-asset-context-and/ba-p/4212480 |
 | Mondoo | Unified Security Posture Management | https://mondoo.com/docs/platform/security/posture/vulnerabilities/#epss-score |
 | Morphisec | Morphisec Vulnerability Management | https://blog.morphisec.com/morphisec-next-gen-risk-based-vulnerability-prioritization |
+| Nanitor | Nanitor CTEM Platform | https://help.nanitor.com/134-epss/ |
 | Netrise | Netrise Platform | https://www.netrise.io/xiot-security-blog/sbom-ingest |
 | NetSPI | Attack Surface Management (ASM) | https://www.netspi.com |
 | Noetic | Noetic Platform | https://noeticcyber.com/risk-driven-vulnerability-prioritization/ |
