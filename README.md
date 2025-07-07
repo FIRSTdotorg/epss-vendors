@@ -72,6 +72,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | HackerOne | CVE Discovery | https://hackerone.com/hacktivity/cve_discovery |
 | Hackuity | Risk-Based Vulnerability Management | https://www.hackuity.io/ |
 | IBM | Concert | https://www.ibm.com/docs/en/concert?topic=dimension-understanding-concert-risk-score-vulnerabilities#understanding_the_concert_risk_score__title__4 | 
+| Intruder | Exposure Management Platform | https://www.intruder.io/ |
 | Kerzinger | VulnDex | https://vulndex.at/ |
 | Keysight | Keysight IoT Security Assessment | https://www.keysight.com/be/en/products/network-security/iot-security-assessment.html |
 | Kodem | Kodem Security | https://www.kodemsecurity.com/ |
