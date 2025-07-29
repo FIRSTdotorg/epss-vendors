@@ -137,3 +137,4 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Würth Phoenix | SATAYO CTI Platform | https://www.neteye-blog.com/2023/12/epss-implementation-in-satayo/ |
 | Xygeni Security | All-in-One Application Security Platform | https://docs.xygeni.io/introduction-to-xygeni/prioritization-funnels/prioritization-funnels-1/exploitability#exploitability |
 | Yes We Hack | Bug Bounty & Vulnerability Management Platform | https://www.yeswehack.com/ |
+| Plexicus | AI-powered CNAPP  | https://www.plexicus.ai/ |
