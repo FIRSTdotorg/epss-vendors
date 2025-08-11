@@ -14,6 +14,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 
 | Vendor | Product | Link |
 | ----------- | ----------- | ----------- |
+| Aikido Security | Aikido Security Platform  | https://www.aikido.c/](https://help.aikido.dev/code-scanning/miscellaneous/use-epss-values-to-further-reduce-noise |
 | AppSoc | Risk-Based Application Security Posture Management  | https://www.appsoc.com/ |
 | Aqua Security | Aqua Workload Protection | https://support.aquasec.com/support/solutions/articles/16000166626-2023-september-saas-update-release%23EPSS-(Exploit-Prediction-Scorin |
 | Armis | Armis Asset Vulnerability Management module | https://www.armis.com/integrations/exploit-prediction-scoring-system-epss/ |
