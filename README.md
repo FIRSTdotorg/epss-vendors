@@ -102,6 +102,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Palo Alto Network | Prisma Cloud | https://www.paloaltonetworks.com/prisma/cloud |
 | Palo Alto Network | Xpanse | https://www.paloaltonetworks.com/blog/security-operations/enable-proactive-incident-response-with-adaptive-risk-scoring/ |
 | Phoenix Security | Act on Phoenix |https://phoenix.security/new-features-november-2022/|
+| Plexicus | AI-powered CNAPP  | https://www.plexicus.ai/ |
 | Precursor | Penetration Testing and Continuous Security Testing Services | https://www.precursorsecurity.com/ |
 | Procapsuite | Procap 360 | https://procapsuite.com/ |
 | UpGuard | UpGuard Platform | https://help.upguard.com/en/articles/9180433-what-is-exploit-prediction-scoring-system-epss |
@@ -140,4 +141,3 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Würth Phoenix | SATAYO CTI Platform | https://www.neteye-blog.com/2023/12/epss-implementation-in-satayo/ |
 | Xygeni Security | All-in-One Application Security Platform | https://docs.xygeni.io/introduction-to-xygeni/prioritization-funnels/prioritization-funnels-1/exploitability#exploitability |
 | Yes We Hack | Bug Bounty & Vulnerability Management Platform | https://www.yeswehack.com/ |
-| Plexicus | AI-powered CNAPP  | https://www.plexicus.ai/ |
