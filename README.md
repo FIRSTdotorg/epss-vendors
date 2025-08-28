@@ -107,6 +107,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | UpGuard | UpGuard Platform | https://help.upguard.com/en/articles/9180433-what-is-exploit-prediction-scoring-system-epss |
 | Qualys | TruRisk | https://blog.qualys.com/qualys-insights/2022/10/10/in-depth-look-into-data-driven-science-behind-qualys-trurisk |
 | Rezilion | Rezilion | https://www.rezilion.com/blog/introducing-our-new-software-supply-chain-security-features/ |
+| runZero | EPSS-Pulse | https://www.runzero.com/epss-pulse/ |
 | SecLogic | CyberQ Shield | https://seclogic.io/ |
 | SecOps Solution| Full-Stack Vulnerability and Patch Management Platform | https://secopsolution.com/epss-calculator |
 | Securin | Vulnerability Intelligence | https://www.securin.io/vulnerability-intelligence/ |
