@@ -127,6 +127,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | SPDX | The Software Package Data Exchange (SPDX) | https://spdx.dev/capturing-software-vulnerability-data-in-spdx-3-0/ |
 | Stackaware | AI Risk Management | https://stackaware.com/ |
 | Strobes | VM365 | https://help.strobes.co/hc/en-us/articles/13158942134801-Vulnerabilities-Custom-CSV-Export |
+| Tanium | Tanium Comply | https://help.tanium.com/bundle/WhatsNewComplyAug/page/ANN/WhatsNewComplyAug/WhatsNewComplyAug.htm |
 | Tenable | Tenable Vulnerability Management | https://docs.tenable.com/vulnerability-management/Content/vulnerability-intelligence/vulnerability-information.htm |
 | Ultrared| Ultrared Threat Exposure Management | https://www.ultrared.ai/blog/epss-and-exposure-management |
 | Uptycs | The first unified CNAPP and XDR platform | https://www.uptycs.com/products/why-uptycs |
