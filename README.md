@@ -107,6 +107,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Procapsuite | Procap 360 | https://procapsuite.com/ |
 | UpGuard | UpGuard Platform | https://help.upguard.com/en/articles/9180433-what-is-exploit-prediction-scoring-system-epss |
 | Qualys | TruRisk | https://blog.qualys.com/qualys-insights/2022/10/10/in-depth-look-into-data-driven-science-behind-qualys-trurisk |
+| Rapid7 | Surface Command & Exposure Command | https://docs.rapid7.com/surface-command-offering/quick-start-guide/#phase-1-get-up-and-running |
 | Rezilion | Rezilion | https://www.rezilion.com/blog/introducing-our-new-software-supply-chain-security-features/ |
 | runZero | EPSS-Pulse | https://www.runzero.com/epss-pulse/ |
 | SecLogic | CyberQ Shield | https://seclogic.io/ |
