@@ -72,6 +72,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Github Advisory Database | GHSA | https://github.blog/changelog/2024-10-10-epss-scores-in-the-github-advisory-database/ |
 | HackerOne | CVE Discovery | https://hackerone.com/hacktivity/cve_discovery |
 | Hackuity | Risk-Based Vulnerability Management | https://www.hackuity.io/ |
+| Harness | Security Test Orchestration | https://www.harness.io/products/security-testing-orchestration |
 | IBM | Concert | https://www.ibm.com/docs/en/concert?topic=dimension-understanding-concert-risk-score-vulnerabilities#understanding_the_concert_risk_score__title__4 | 
 | Interlynk | Software Supply Chain Security | https://docs.interlynk.io/product-guides/interlynk-basics/vulnerability |
 | Intruder | Exposure Management Platform | https://www.intruder.io/ |
