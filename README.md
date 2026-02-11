@@ -76,6 +76,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | IBM | Concert | https://www.ibm.com/docs/en/concert?topic=dimension-understanding-concert-risk-score-vulnerabilities#understanding_the_concert_risk_score__title__4 | 
 | Interlynk | Software Supply Chain Security | https://docs.interlynk.io/product-guides/interlynk-basics/vulnerability |
 | Intruder | Exposure Management Platform | https://www.intruder.io/ |
+| Iru | Vulnerability Management | https://docs.iru.com/en/endpoint/vulnerability-management/vulnerability-management-overview | 
 | Kerzinger | VulnDex | https://vulndex.at/ |
 | Keysight | Keysight IoT Security Assessment | https://www.keysight.com/be/en/products/network-security/iot-security-assessment.html |
 | Kodem | Kodem Security | https://www.kodemsecurity.com/ |
