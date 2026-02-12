@@ -99,6 +99,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Oligo | Dynamic SCA | https://www.oligo.security/ |
 | Opswright | Opswright Impact Platform | https://opswright.com/ |
 | Orca | Cloud Security Platform | https://orca.security/resources/blog/epss-scoring-system-explained/ |
+| OX Security | OX Security Platform | https://www.ox.security/ |
 | Oryx Labs | Attack Surface Management | https://oryxlabs.ae/ |
 | OWASP | Dependency Track | https://owasp.org/www-project/dependency-track |
 | Palo Alto Network | Prisma Cloud | https://www.paloaltonetworks.com/prisma/cloud |
