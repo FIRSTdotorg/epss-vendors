@@ -98,6 +98,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Nucleus Security | Nucleus Unified Vulnerability Management| https://nucleussec.com/blog/what-is-epss/ |
 | NTT DATA | YaVS / SecDB Portal | https://secdb.nttzen.cloud |
 | Oligo | Dynamic SCA | https://www.oligo.security/ |
+| OpenCVE | Vulnerability Intelligence | https://www.opencve.io/ |
 | Opswright | Opswright Impact Platform | https://opswright.com/ |
 | Orca | Cloud Security Platform | https://orca.security/resources/blog/epss-scoring-system-explained/ |
 | OX Security | OX Security Platform | https://www.ox.security/ |
