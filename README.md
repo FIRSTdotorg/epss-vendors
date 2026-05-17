@@ -14,6 +14,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 
 | Vendor | Product | Link |
 | ----------- | ----------- | ----------- |
+| AboutCode Foundation  | VulnerableCode Open PURL Vulnerabilities DB | https://github.com/aboutcode-org/vulnerablecode/blob/main/vulnerabilities/importers/epss.py |
 | Aikido Security | Aikido Security Platform  | https://help.aikido.dev/code-scanning/miscellaneous/use-epss-values-to-further-reduce-noise |
 | AppSoc | Risk-Based Application Security Posture Management  | https://www.appsoc.com/ |
 | Aqua Security | Aqua Workload Protection | https://support.aquasec.com/support/solutions/articles/16000166626-2023-september-saas-update-release%23EPSS-(Exploit-Prediction-Scorin |
