@@ -55,6 +55,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Dazz | Dazz Unified Remediation Platform | https://www.dazz.io/platform |
 | Deepfactor | Application Security Platform | https://www.deepfactor.io/deepfactor-3-5-includes-enhanced-vulnerability-prioritization-with-epss-support-and-reachability-analysis-for-golang/ | 
 | Denexus | OT Cyber Risk Quantification | https://www.denexus.io/products/derisk/industrial
+| DevKit Srl | DevKit Dossier | https://devkit.dev/ |
 | DevOcean | Low-Touch Remediation Platform | https://www.devocean.security/blog/epss-everything-you-need-to-know |
 | Docker Scout | Solution for proactively enhancing your software supply chain security | https://www.docker.com/products/docker-scout/ |
 | EdgeBit | EdgeBit Security Platform | https://edgebit.io/docs/0.x/investigate-epss/ |
