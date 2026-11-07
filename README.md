@@ -138,6 +138,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | SYRN | SYRN Vulnerability Management | https://syrn.fr/en |
 | Tanium | Tanium Comply | https://help.tanium.com/bundle/WhatsNewComplyAug/page/ANN/WhatsNewComplyAug/WhatsNewComplyAug.htm |
 | Tenable | Tenable Vulnerability Management | https://docs.tenable.com/vulnerability-management/Content/vulnerability-intelligence/vulnerability-information.htm |
+| Terramantle | Terramantle | https://terramantle.dev/security/cvss-epss-kev |
 | Ultrared| Ultrared Threat Exposure Management | https://www.ultrared.ai/blog/epss-and-exposure-management |
 | Uptycs | The first unified CNAPP and XDR platform | https://www.uptycs.com/products/why-uptycs |
 | Veracode | Veracode SCA | https://docs.veracode.com/r/Understanding_SCA_exploitability_information | 
