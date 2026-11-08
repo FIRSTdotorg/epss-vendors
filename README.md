@@ -62,6 +62,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Edgescan | Risk-Based Vulnerability Management Solution | https://www.edgescan.com/solutions/vulnerability-management/ |
 | Elastic | Elastic Seach Platform | https://www.elastic.co/docs/current/integrations/first_epss |
 | Endor Labs | Endor Labs | https://www.endorlabs.com/blog/cve-vulnerability-epss-ssvc-reachability-vex |
+| Exploitr | Penetration Testing Services | https://exploitr.com/ |
 | FOSSA | The Modern Open Source Risk Platform | https://fossa.com/blog/understanding-using-epss-scoring-system/ |
 | Flashpoint | Flashpoint VulnDB | https://flashpoint.io/resources/datasheets/vulndb-ransomware-and-exploit-prediction-model/|
 | Fleet | Open-source device management | https://fleetdm.com/upgrade |
