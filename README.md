@@ -28,6 +28,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Axxemble | BaseFortify | https://basefortify.eu/posts/2025/01/epss:_prioritizing_vulnerabilities_based_on_exploit_likelihood.html |
 | Backlash | Reachability SAST/SCA | https://www.backslash.security/ |
 | Balbix | Risk-Based Vulnerability Management | https://www.balbix.com/product/risk-based-vulnerability-management/ |
+| Beamreach | Compass, open-source CVE patch pull requests for AWS workloads | https://beamreach.ai/compass/releases/0.9.0.html |
 | Binarly | Transparency Platform | https://binarly.io/capabilities |
 | Black Kite | Third Party & Cyber Risk Management Platform | https://content.blackkite.com/ebook/2025-supply-chain-vulnerability-report/ |
 | Bomber| Bomber | https://github.com/devops-kung-fu/bomber |
